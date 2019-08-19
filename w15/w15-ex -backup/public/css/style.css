@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+h1, h2, h6{
+  font-family: Poppins;
+}
+p{
+  font-family:'Courier New', Courier, monospace;
+}
+.padding {
+  padding-bottom: 0.25rem;
+}
+.container {
+  background-color: black;
+}
+/* img{
+  max-width: 90%;
+  max-height: 60%; 
+  height: 20rem;
+  
+} */
+.img-small{
+  max-block-size: 10rem;
+}
+.img-fluid{
+    height: 10rem;
+    /* max-width: none; */
+}
+.img-bg{
+  max-width: none;
+}
+
+.band{
+    display: -webkit-box;
+    background-color: bisque ;
+    margin: 0.5rem;
+    padding:1rem;
+    padding-top:1rem;
+    margin-bottom: 2rem;
+  
+}
